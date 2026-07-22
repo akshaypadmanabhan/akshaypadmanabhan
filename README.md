@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack Devolepment.
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Web Devolepment Projects
-- 📫 How to reach me -akshayplearning@gmail.com
+- 📫 How to reach me -akshaypadmanabhan97@gmail.com
 
 <!---
 akshaypadmanabhan/akshaypadmanabhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
